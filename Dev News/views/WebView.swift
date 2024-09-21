@@ -1,7 +1,7 @@
 //
 //  WebView.swift
 //  Dev News
-// this is reuasable component
+//  This is reuasable component
 //  Created by Rahul choudhary on 21/09/24.
 //
 
